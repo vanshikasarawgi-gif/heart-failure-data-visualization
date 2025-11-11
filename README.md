@@ -1,6 +1,4 @@
 
----
-
 # ❤️ Heart Failure Data Visualization
 
 ## 📊 Overview
@@ -34,7 +32,7 @@ Contains clinical data including:
 1. Clone the repo:
 
 ```bash
-git clone <your-repo-link>
+https://github.com/vanshikasarawgi-gif/heart-failure-data-visualization.git>
 ```
 
 2. Install dependencies:
