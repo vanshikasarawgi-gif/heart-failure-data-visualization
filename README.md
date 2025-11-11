@@ -32,7 +32,7 @@ Contains clinical data including:
 1. Clone the repo:
 
 ```bash
-https://github.com/vanshikasarawgi-gif/heart-failure-data-visualization.git>
+https://github.com/vanshikasarawgi-gif/heart-failure-data-visualization.git
 ```
 
 2. Install dependencies:
