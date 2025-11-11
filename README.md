@@ -44,6 +44,3 @@ pip install pandas matplotlib seaborn numpy
 3. Run the notebook or script to generate visualizations
 
 
-
-
-Do you want me to do that?
